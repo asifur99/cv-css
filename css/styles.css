@@ -1,0 +1,168 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Ibarra Real Nova', serif;
+}
+
+h1{
+  line-height: 2;
+  font-size: 5rem;
+  color: #35495e;
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-family: 'Kaushan Script', cursive;
+}
+
+h2{
+  font-weight: normal;
+  font-size: 2.5rem;
+  color: #35495e;
+  margin: 0 auto 40px auto;
+  font-family: 'Courgette', cursive;
+}
+
+h3{
+  color: #347474;
+  font-family: 'Courgette', cursive;
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  border-style: none;
+  border-top-style:  dotted;
+  border-width: 5px;
+  width: 5%;
+  margin: 80px auto;
+  color: #7fcd91;
+}
+
+a{
+  color: #347474;
+  text-decoration: none;
+}
+
+.top-container{
+  background-color: #eafbea;
+  position: relative;
+  padding-top: 300px;
+}
+
+.middle-container{
+  margin: 25px 0;
+}
+
+.bottom-container{
+  background-color: #63b7af;
+  padding: 2rem;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.gif-img{
+  margin-top: 50px;
+  height:300px;
+  width: 500px;
+}
+
+.hand{
+  position: absolute;
+  height:12.5rem;
+  width: 12.5rem;
+  right: 12.5rem;
+}
+
+.hand1{
+  position: absolute;
+  height:12.5rem;
+  width: 12.5rem;
+  left: 12.5rem;
+}
+
+.prog{
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+}
+
+.progc{
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+}
+
+.profile1{
+  margin: 0 auto;
+  width: 30%;
+}
+
+.asifurimg{
+  height: 200px;
+  width: 200px;
+}
+
+.critical-img{
+  height: 9.375rem;
+  width: 6.25rem;
+  margin-right: 30px;
+  float: left;
+
+}
+
+.cooking-img{
+  height: 9.375rem;
+  width: 9.375rem;
+  margin-left: 30px;
+  float: right;
+}
+
+.skill-row{
+  margin: 50px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.btn{
+  display: inline-block;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  outline: none;
+  background-color: #347474;
+  border: none;
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  font-family: 'Courgette', cursive;
+}
+
+.btn:hover{
+  background: #3e206e;
+  text-decoration: none;
+}
+
+.footer-link{
+  font-size: 1.2rem;
+  margin: auto 0.5rem;
+}
+
+.footer-link:hover{
+  color: #f6eec9;
+}
+
+.contact-msg{
+  margin: 0 auto;
+  width: 30%;
+}
+
+.copy{
+  font-family: 'Dancing Script', cursive;
+  color: #eaf6f6;
+  font-size: 0.95rem;
+}
