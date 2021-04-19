@@ -1,1 +1,1 @@
-# cv-css
+# CV-CSS: Web Developement BootCamp
